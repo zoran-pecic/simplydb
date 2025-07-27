@@ -7,7 +7,7 @@ This is a project for creation simple sql db and to return to the c language roo
 
 ```bash
 # comple
-gcc -O2 main.c -o simplydb
+make
 # run db
 ./simplydb
 ```
