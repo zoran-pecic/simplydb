@@ -1,2 +1,3 @@
 simplydb
 *.o
+.DS_Store
